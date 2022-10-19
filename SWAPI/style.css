@@ -1,0 +1,17 @@
+h1 {
+    color:blue;
+    border: solid black 2px;
+    display: flex;
+    width: 200px;
+    box-shadow: 10px 5px 5px black;
+}
+
+#residents {
+    height: 50px;
+    width: 175px;
+    background-color: blanchedalmond;
+}
+
+#residents:hover {
+    background-color: aqua;
+}
